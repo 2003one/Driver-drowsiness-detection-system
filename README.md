@@ -187,7 +187,6 @@ python train_v2_mobilenet.py
 
 ## Limitations
 
-- Simulation-only (Gazebo); not validated on physical hardware.
 - Single-developer project; thresholds tuned on limited data.
 
 ## Roadmap
