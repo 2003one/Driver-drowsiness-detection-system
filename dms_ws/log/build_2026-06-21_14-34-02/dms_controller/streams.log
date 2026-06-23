@@ -1,0 +1,21 @@
+[0.662s] Invoking command in '/home/the2003onean/dms_ws/src/dms_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/dms_ws/build/dms_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/dms_ws/install/dms_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dms_controller build --build-base /home/the2003onean/dms_ws/build/dms_controller/build install --record /home/the2003onean/dms_ws/build/dms_controller/install.log --single-version-externally-managed install_data
+[0.884s] running egg_info
+[0.901s] writing ../../build/dms_controller/dms_controller.egg-info/PKG-INFO
+[0.901s] writing dependency_links to ../../build/dms_controller/dms_controller.egg-info/dependency_links.txt
+[0.902s] writing entry points to ../../build/dms_controller/dms_controller.egg-info/entry_points.txt
+[0.902s] writing requirements to ../../build/dms_controller/dms_controller.egg-info/requires.txt
+[0.902s] writing top-level names to ../../build/dms_controller/dms_controller.egg-info/top_level.txt
+[0.937s] reading manifest file '../../build/dms_controller/dms_controller.egg-info/SOURCES.txt'
+[0.938s] writing manifest file '../../build/dms_controller/dms_controller.egg-info/SOURCES.txt'
+[0.938s] running build
+[0.938s] running build_py
+[0.938s] running install
+[0.943s] running install_lib
+[0.961s] running install_data
+[0.961s] running install_egg_info
+[0.979s] removing '/home/the2003onean/dms_ws/install/dms_controller/lib/python3.12/site-packages/dms_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[0.980s] Copying ../../build/dms_controller/dms_controller.egg-info to /home/the2003onean/dms_ws/install/dms_controller/lib/python3.12/site-packages/dms_controller-0.0.0-py3.12.egg-info
+[0.980s] running install_scripts
+[1.095s] Installing dms_bridge_node script to /home/the2003onean/dms_ws/install/dms_controller/lib/dms_controller
+[1.095s] writing list of installed files to '/home/the2003onean/dms_ws/build/dms_controller/install.log'
+[1.120s] Invoked command in '/home/the2003onean/dms_ws/src/dms_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/dms_ws/build/dms_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/dms_ws/install/dms_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dms_controller build --build-base /home/the2003onean/dms_ws/build/dms_controller/build install --record /home/the2003onean/dms_ws/build/dms_controller/install.log --single-version-externally-managed install_data

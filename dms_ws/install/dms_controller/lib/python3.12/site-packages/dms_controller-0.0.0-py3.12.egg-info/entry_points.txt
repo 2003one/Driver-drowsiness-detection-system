@@ -1,0 +1,2 @@
+[console_scripts]
+dms_bridge_node = dms_controller.dms_bridge_node:main
